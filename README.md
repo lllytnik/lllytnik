@@ -1,4 +1,4 @@
-[![Header](https://github.com/lllytnik/lllytnik/blob/main/assets/pic.jpg)]
+![Header](https://github.com/lllytnik/lllytnik/blob/main/assets/pic.jpg)
 
 About me
 
