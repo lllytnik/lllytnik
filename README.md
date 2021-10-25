@@ -2,6 +2,8 @@
 
 ### I am a web engineer creating HTML and CSS for a website.
 
+---
+
 ### Languages and Tools:
 
 <p float="left">
