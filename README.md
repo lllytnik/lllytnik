@@ -6,7 +6,7 @@
 
 ![HTML](https://img.shields.io/badge/-<HTML>-772728?style=flat-square&logo=5a7ba4)
 ![REACT](https://img.shields.io/badge/-<REACT>-772728?style=flat-square&logo=5a7ba4)
-![HTML](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?style=flat-square)
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lllytnik)](https://github.com/anuraghazra/github-readme-stats)
 
