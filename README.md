@@ -1,8 +1,6 @@
 ![Header](https://github.com/lllytnik/lllytnik/blob/main/assets/pic.jpg)
 
-### I am a web engineer creating HTML and CSS for a website.
-
----
+# I am a web engineer creating HTML and CSS for a website.
 
 ### Languages and Tools:
 
