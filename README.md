@@ -2,6 +2,8 @@
 
 # I am a web engineer creating HTML and CSS for a website.
 
+Web developer - beginner. I had a training in IT-incubator, where I received knowledge of web development using HTML5, CSS3. I understand semantics and BEM methodology and use it in my practice. I have skills of building layouts for mobile devices. I always remember about cross-browser, strive to achieve code validation. I work with React components, gulp and WordPress. I create email layouts. I know Photoshop, graphic editors, Figma, Avocode.
+
 ### Languages and Tools:
 
 <p float="left">
