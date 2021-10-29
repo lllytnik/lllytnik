@@ -1,6 +1,6 @@
 ![Header](https://github.com/lllytnik/lllytnik/blob/main/assets/pic.jpg)
 
-# I am a web engineer creating HTML and CSS for a website.
+# Web developer - beginner :monocle_face: :metal: :rocket:	
 
 :boom: I had a training in IT-incubator :boom: , where I received knowledge of web development using HTML5, CSS3. <br/> I understand semantics and BEM methodology and use it in my practice. I have skills of building layouts for mobile devices. I always remember about cross-browser, strive to achieve code validation.
 
